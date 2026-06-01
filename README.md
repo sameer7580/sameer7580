@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Open+to+Full-Time+%7C+Remote+%7C+Delhi+NCR)](https://git.io/typing-svg)
 
-📍 Delhi NCR &nbsp;|&nbsp; 📧 [Email Me](mailto:email@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com) &nbsp;|&nbsp; 🌐 Open to: Full-Time · Remote · Hybrid
+📍 Delhi NCR &nbsp;|&nbsp; 📧 [Email Me](mailto:sameertiwari0007@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sam-kt/) &nbsp;|&nbsp; 🌐 Open to: Full-Time · Remote · Hybrid
 
 </div>
 
@@ -16,7 +16,7 @@
 
 - 🎓 **BSc Mathematical Sciences** — University of Delhi (CS · Mathematics · Operations Research)
 - 🏅 **Data Analyst Masters Program with Distinction** — Simplilearn, 2026
-- 💼 1 year experience in MIS reporting, KPI dashboards, ETL, and stakeholder management
+- 💼 Hands-on experience in MIS reporting, KPI dashboards, ETL, and stakeholder management
 - 🔍 Passionate about translating messy data into clear, actionable business insights
 - 🤝 Former team lead managing cross-functional teams of 4–8 members
 - 🌱 Currently strengthening skills in **Generative AI for Data Analytics** & **Microsoft Azure**
@@ -50,7 +50,7 @@
 
 ## 📂 Featured Projects
 
-### 📊 [Region Sales Comparison Dashboard](https://public.tableau.com)
+### 📊 [Region Sales Comparison Dashboard](https://public.tableau.com/app/profile/sameer.tiwari3797/vizzes)
 > Tableau · Power BI · Data Visualisation · KPI Design
 
 Built an interactive dashboard comparing **6 business metrics** across any two selected regions (Total Sales, Avg Sales/Order, No. of Orders, Customers, Products, First Order Date). Revealed a **$46K performance gap** between East ($678K) and West ($725K). Published live on Tableau Public for stakeholder access.
@@ -59,7 +59,7 @@ Built an interactive dashboard comparing **6 business metrics** across any two s
 
 ---
 
-### 🛒 [FitZone India – E-Commerce Sales Analysis](https://github.com)
+### 🛒 [FitZone India – E-Commerce Sales Analysis](https://github.com/sameer7580)
 > Python · Pandas · Matplotlib · EDA · MIS Reporting
 
 End-to-end EDA on 18 customer orders across 4 product categories. Classified 8 customers by spending tier, identified 5 high-value buyers. **Fitness Equipment** drove **54.1%** of $1,163 total revenue. Delivered findings as a structured MIS-style business report.
@@ -84,9 +84,9 @@ End-to-end EDA on 18 customer orders across 4 product categories. Classified 8 c
 
 <div align="center">
 
-![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer7580&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer7580&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -110,11 +110,11 @@ End-to-end EDA on 18 customer orders across 4 product categories. Classified 8 c
 
 ### 💬 Let's connect — open to Data Analyst, MIS, Reporting & Business Analyst roles!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-kt/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameertiwari0007@gmail.com)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sameer.tiwari3797/vizzes)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameer7580)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=0078D4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sameer7580&color=0078D4&style=for-the-badge)
 
 </div>
